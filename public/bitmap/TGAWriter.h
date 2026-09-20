@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -14,7 +14,7 @@
 
 
 #include "tier1/interface.h"
-#include "bitmap/imageformat.h" //ImageFormat enum definition
+#include "bitmap/ImageFormat.h" //ImageFormat enum definition
 
 class CUtlBuffer;
 

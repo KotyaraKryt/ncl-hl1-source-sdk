@@ -14,7 +14,7 @@
 
 #include "vgui_internal.h"
 #include "VPanel.h"
-#include "UtlVector.h"
+#include "utlvector.h"
 #include <KeyValues.h>
 #include "tier0/vcrmode.h"
 
@@ -28,7 +28,7 @@
 #include <vgui/MouseCode.h>
 #include "vgui/Cursor.h"
 
-#include "UtlLinkedList.h"
+#include "utllinkedlist.h"
 #include "tier0/icommandline.h"
 #include "vgui_key_translation.h"
 

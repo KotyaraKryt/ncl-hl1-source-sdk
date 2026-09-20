@@ -29,9 +29,9 @@
 #include <tier1/utlhandletable.h>
 #include "vgui_internal.h"
 #include "VPanel.h"
-#include "UtlLinkedList.h"
-#include "UtlPriorityQueue.h"
-#include "UtlVector.h"
+#include "utllinkedlist.h"
+#include "utlpriorityqueue.h"
+#include "utlvector.h"
 #include "tier0/vprof.h"
 #include "tier0/icommandline.h"
 

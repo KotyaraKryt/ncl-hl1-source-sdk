@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -172,9 +172,9 @@ public:
 
 };
 
-#include "P5P6PerformanceCounters.h"    
-#include "P4PerformanceCounters.h"    
-#include "K8PerformanceCounters.h"    
+#include "p5p6performancecounters.h"    
+#include "p4performancecounters.h"    
+#include "k8performancecounters.h"    
 
 enum PerfErrors
 {

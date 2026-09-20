@@ -46,7 +46,7 @@
 #include "vgui_internal.h"
 #include "filesystem_helpers.h"
 #include "vgui_key_translation.h"
-#include "filesystem.h"
+#include "FileSystem.h"
 
 #define PROTECTED_THINGS_DISABLE
 // memdbgon must be the last include file in a .cpp file!!!
